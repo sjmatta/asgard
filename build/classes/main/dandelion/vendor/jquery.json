@@ -1,0 +1,10 @@
+{
+	"assets": [
+		{
+			"version": "2.1.4",
+			"locations": {
+				"webjar": "jquery.min.js"
+			}
+		}
+	]
+}

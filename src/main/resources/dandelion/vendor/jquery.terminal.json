@@ -1,0 +1,19 @@
+{
+	"dependencies": [ "jquery" ],
+	"assets": [
+		{
+			"type": "js",
+			"version": "0.8.8",
+			"locations": {
+				"webapp": "/js/jquery.terminal-0.8.8.min.js"
+			}
+		},
+		{
+			"type": "css",
+			"version": "0.8.8",
+			"locations": {
+				"webapp": "/css/jquery.terminal.css"			
+			}
+		}
+	]
+}

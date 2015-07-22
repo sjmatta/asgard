@@ -1,0 +1,20 @@
+{
+	"dependencies": 
+	[
+		"jquery.terminal",
+		"jquery-mousewheel",
+		"sockjs-client",
+		"stomp-websocket"
+	],
+
+	"assets": 
+	[
+		{
+			"version": "0.1",
+			"locations": 
+			{
+				"webapp": "/js/index.js"
+			}
+		}
+	]
+}

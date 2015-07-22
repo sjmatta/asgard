@@ -1,0 +1,10 @@
+{
+	"assets": [
+		{
+			"version": "2.3.4",
+			"locations": {
+				"webjar": "stomp.min.js"
+			}
+		}
+	]
+}

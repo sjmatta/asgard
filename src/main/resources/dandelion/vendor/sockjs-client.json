@@ -1,0 +1,10 @@
+{
+	"assets": [
+		{
+			"version": "1.0.1",
+			"locations": {
+				"webjar": "sockjs.min.js"
+			}
+		}
+	]
+}
